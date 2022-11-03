@@ -1,0 +1,32 @@
+body {
+   background: coral
+
+   font-size: 25px;   
+}
+
+
+p {
+   text-align: center;
+   color: blue (red, green, blue, alpha);
+
+}
+b {
+   color: aqua; 
+}
+
+h1 {
+   color: blueviolet;
+   text-align: center;
+   margin: 0%
+}
+#imagem-pricipal {
+width: 97%;
+margin: 0%;
+height: 400px;
+border: solid 20px red (red, green, blue)
+}
+
+
+
+
+
